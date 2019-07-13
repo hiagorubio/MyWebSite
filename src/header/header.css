@@ -1,0 +1,28 @@
+.top-bar-item {
+    margin: 3px;
+    padding: 12px;
+    text-align: center;
+}
+
+.top-bar-item:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+a {
+    color: white;
+    text-decoration: none currentcolor solid;
+}
+
+a:hover {
+    color: black;
+    background-color: white;
+
+}
+
+i {
+    fill: white;
+}
+
+
